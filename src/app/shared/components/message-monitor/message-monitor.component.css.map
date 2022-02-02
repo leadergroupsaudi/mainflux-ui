@@ -1,0 +1,9 @@
+{
+    "version": 3,
+    "mappings": "AAAA,AAAA,KAAK,CAAC;EACJ,WAAW,EAAE,iBAAiB;EAC9B,eAAe,EAAE,QAAQ;EACzB,KAAK,EAAE,IAAI;CACZ;;AAED,AAAA,MAAM,CAAC;EACL,KAAK,EAAE,KAAK;EACZ,YAAY,EAAE,IAAI;CACnB;;AAED,AAAA,WAAW,CAAC;EACV,aAAa,EAAE,IAAI;EACnB,SAAS,EAAE,IAAI;CAChB",
+    "sources": [
+        "message-monitor.component.scss"
+    ],
+    "names": [],
+    "file": "message-monitor.component.css"
+}

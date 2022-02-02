@@ -5,7 +5,7 @@ import { LayoutService } from '../../../@core/utils';
 import { map, takeUntil } from 'rxjs/operators';
 import { Subject } from 'rxjs';
 
-// Mainflux - Users
+// Automax IoT - Users
 import { User } from 'app/common/interfaces/mainflux.interface';
 import { UsersService } from 'app/common/services/users/users.service';
 import { ThingsService } from 'app/common/services/things/things.service';
@@ -47,7 +47,7 @@ export class HeaderComponent implements OnInit, OnDestroy {
 
   currentTheme = 'default';
 
-  // Mainflux - Menu and version
+  // Automax IoT - Menu and version
   userMenu = [
     { title: 'Profile', link: this.getLink('/pages/profile') },
     { title: 'Log out', link: this.getLink('/auth/logout') },

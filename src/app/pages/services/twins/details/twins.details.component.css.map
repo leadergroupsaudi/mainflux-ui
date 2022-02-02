@@ -1,0 +1,9 @@
+{
+    "version": 3,
+    "mappings": "AAAA,AAAA,OAAO,CAAC;EACN,cAAc,EAAE,MAAM;CACvB;;AAED,AAAA,SAAS,AAAA,MAAM,CAAC;EACd,gBAAgB,EAAE,OAAO;CAC1B;;AAED,AAAA,SAAS,CAAC;EACR,SAAS,EAAE,KAAK;CACjB;;AAED,AAAA,MAAM,CAAC;EACL,KAAK,EAAE,KAAK;CACb;;AAED,AAAA,YAAY,CAAC;EACX,SAAS,EAAE,UAAU;CACtB",
+    "sources": [
+        "twins.details.component.scss"
+    ],
+    "names": [],
+    "file": "twins.details.component.css"
+}

@@ -15,7 +15,7 @@ import { GatewaysDetailsComponent } from 'app/pages/services/gateways/details/ga
 import { GatewaysInfoComponent } from 'app/pages/services/gateways/details/info/gateways.info.component';
 import { GatewaysConfigComponent } from 'app/pages/services/gateways/details/config/gateways.config.component';
 import { GatewaysXtermComponent } from 'app/pages/services/gateways/details/xterm/gateways.xterm.component';
-// Mainflux - Twins
+// Automax IoT - Twins
 import { TwinsComponent } from 'app/pages/services/twins/twins.component';
 import { TwinsAddComponent } from 'app/pages/services/twins/add/twins.add.component';
 import { TwinsDetailsComponent } from 'app/pages/services/twins/details/twins.details.component';

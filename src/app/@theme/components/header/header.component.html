@@ -3,7 +3,9 @@
     <a (click)="toggleSidebar()" href="#" class="sidebar-toggle">
       <nb-icon icon="menu-2-outline"></nb-icon>
     </a>
-    <a class="logo header-logo" href="#" (click)="navigateHome()">{{logotype}}</a>
+    <a class="logo header-logo" href="#" (click)="navigateHome()">
+      <!-- {{logotype}} -->
+      <img class="iot-logo" src="../../../../assets/images/automax-iot-logo.png" /></a>
     <div class="header-version">v{{version}}</div>
   </div>
 </div>
@@ -14,7 +16,8 @@
       <nb-user [nbContextMenu]="userMenu"
                [onlyPicture]="userPictureOnly"
                [name]="user?.email"
-               [picture]="user?.picture">
+               [picture]="user?.picture"
+               >
       </nb-user>
     </nb-action>
   </nb-actions>

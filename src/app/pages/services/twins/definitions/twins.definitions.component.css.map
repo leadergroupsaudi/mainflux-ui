@@ -1,0 +1,9 @@
+{
+    "version": 3,
+    "mappings": "AAAA,AAAA,YAAY,CAAC;EACX,SAAS,EAAE,UAAU;CACtB",
+    "sources": [
+        "twins.definitions.component.scss"
+    ],
+    "names": [],
+    "file": "twins.definitions.component.css"
+}

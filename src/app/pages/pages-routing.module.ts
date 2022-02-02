@@ -7,16 +7,16 @@ import { ProfileComponent } from './profile/profile.component';
 
 import { environment } from 'environments/environment';
 
-// Mainflux - User Groups
+// Automax IoT - User Groups
 import { UserGroupsComponent } from './user-groups/user-groups.component';
 import { UserGroupsDetailsComponent } from './user-groups/details/user-groups.details.component';
-// Mainflux - User
+// Automax IoT - User
 import { UsersComponent } from './users/users.component';
 import { UsersDetailsComponent } from './users/details/users.details.component';
-// Mainflux - Things
+// Automax IoT - Things
 import { ThingsComponent } from './things/things.component';
 import { ThingsDetailsComponent } from './things/details/things.details.component';
-// Mainflux - Channels
+// Automax IoT - Channels
 import { ChannelsComponent } from './channels/channels.component';
 import { ChannelsDetailsComponent } from './channels/details/channels.details.component';
 

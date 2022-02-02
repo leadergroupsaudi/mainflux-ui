@@ -1,0 +1,9 @@
+{
+    "version": 3,
+    "mappings": "AAAA,AAAA,OAAO,CAAC;EACN,cAAc,EAAE,MAAM;CACvB;;AAED,AAAA,SAAS,CAAC;EACR,KAAK,EAAE,IAAI;CACZ;;AAED,AAAA,MAAM,CAAC;EACL,KAAK,EAAE,KAAK;CACb;;AAED,AAAA,QAAQ,CAAC;EACP,KAAK,EAAE,IAAI;EACX,MAAM,EAAE,IAAI;CACb",
+    "sources": [
+        "user-groups.details.component.scss"
+    ],
+    "names": [],
+    "file": "user-groups.details.component.css"
+}

@@ -54,7 +54,7 @@ export class ThingsAddComponent {
     if (this.action === 'Create') {
       this.thingsService.addThing(this.formData).subscribe(
         resp => {
-          this.notificationsService.success('Thing successfully created', '');
+          this.notificationsService.success('Device successfully created', '');
           this.dialogRef.close(true);
         },
       );
@@ -62,7 +62,7 @@ export class ThingsAddComponent {
     if (this.action === 'Edit') {
       this.thingsService.editThing(this.formData).subscribe(
         resp => {
-          this.notificationsService.success('Thing successfully edited', '');
+          this.notificationsService.success('Device successfully edited', '');
           this.dialogRef.close(true);
         },
       );

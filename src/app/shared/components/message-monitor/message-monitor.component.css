@@ -1,0 +1,16 @@
+table {
+  font-family: arial, sans-serif;
+  border-collapse: collapse;
+  width: 100%;
+}
+
+.right {
+  float: right;
+  padding-left: 10px;
+}
+
+.header-row {
+  margin-bottom: 10px;
+  font-size: 10px;
+}
+/*# sourceMappingURL=message-monitor.component.css.map */

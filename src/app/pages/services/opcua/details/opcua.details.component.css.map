@@ -1,0 +1,9 @@
+{
+    "version": 3,
+    "mappings": "AAAA,AAAA,OAAO,CAAC;EACN,cAAc,EAAE,MAAM;CACvB",
+    "sources": [
+        "opcua.details.component.scss"
+    ],
+    "names": [],
+    "file": "opcua.details.component.css"
+}

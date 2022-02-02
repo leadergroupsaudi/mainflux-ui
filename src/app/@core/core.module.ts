@@ -10,7 +10,7 @@ import {
   LayoutService,
 } from './utils';
 
-// Mainflux
+// Automax IoT
 import { TokenInterceptor } from 'app/auth/auth.token.interceptor.service';
 import { HTTP_INTERCEPTORS } from '@angular/common/http';
 import { environment } from 'environments/environment';

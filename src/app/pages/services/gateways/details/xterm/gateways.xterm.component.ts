@@ -96,7 +96,7 @@ export class GatewaysXtermComponent implements AfterViewInit, OnChanges, OnDestr
   ngAfterViewInit() {
     this.terminal = new Terminal();
     this.terminal.open(this.terminalElement.nativeElement);
-    this.terminal.writeln('Welcome to Mainflux IoT Agent');
+    this.terminal.writeln('Welcome to Automax IoT Agent');
     this.terminal.onData( data => {
       const vs = `c,${data}`;
       this.publish(this.gateway.metadata.ctrl_channel_id, this.uuid, 'term', btoa(vs));

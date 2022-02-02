@@ -1,0 +1,9 @@
+{
+    "version": 3,
+    "mappings": "AAAA,AAAA,WAAW,CAAC;EACV,cAAc,EAAE,CAAC;CAClB;;AAED,AAAA,WAAW,CAAC;EACV,aAAa,EAAE,IAAI;CACpB;;AAED,AAAA,YAAY,CAAC;EACX,SAAS,EAAE,UAAU;CACtB",
+    "sources": [
+        "opcua.component.scss"
+    ],
+    "names": [],
+    "file": "opcua.component.css"
+}

@@ -11,7 +11,7 @@ const defLimit: number = 20;
 
 @Injectable()
 export class UsersService {
-  picture = 'assets/images/mainflux-logo.png';
+  picture = 'assets/images/automax-iot-logo.png';
   loginUrl: string;
 
   constructor(

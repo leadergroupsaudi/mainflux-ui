@@ -49,6 +49,11 @@
       //@include nb-rtl(border-right, 1px solid nb-theme(divider-color));
       white-space: nowrap;
       text-decoration: none;
+      .iot-logo {
+        width: 200px;
+        height: auto;
+        object-fit: contain;
+      }
     }
   }
 
@@ -66,5 +71,14 @@
     nb-select {
       display: none;
     }
+  }
+}
+
+@media screen and (max-width: 600px) {
+  .iot-logo{
+    width: 150px !important;
+  }
+  .header-version{
+    display: none;
   }
 }

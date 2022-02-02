@@ -11,9 +11,9 @@ export const MENU_ITEMS: NbMenuItem[] = environment.production ?
       home: true,
     },
     {
-      title: 'Things',
+      title: 'Devices',
       icon: 'film-outline',
-      link: appPrefix + '/pages/things',
+      link: appPrefix + '/pages/devices',
     },
     {
       title: 'Channels',
@@ -39,7 +39,7 @@ export const MENU_ITEMS: NbMenuItem[] = environment.production ?
       link: appPrefix + '/pages/users',
     },
     {
-      title: 'Things',
+      title: 'Devices',
       icon: 'film-outline',
       link: appPrefix + '/pages/things',
     },
