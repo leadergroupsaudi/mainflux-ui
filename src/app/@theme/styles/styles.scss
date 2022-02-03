@@ -29,8 +29,9 @@
 
   @include nb-overrides();
   
-.user-picture{
-  background-size: contain !important;
-  background-position: center;
-}
+  .user-picture {
+    background-size: contain !important;
+    background-position: center;
+  }
+
 };

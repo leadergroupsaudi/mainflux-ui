@@ -65,20 +65,17 @@
       border: none;
       padding: 0;
     }
+    .iot-logo {
+      width: 150px !important;
+    }
+    .header-version {
+      display: none;
+    }
   }
 
   @include media-breakpoint-down(is) {
     nb-select {
       display: none;
     }
-  }
-}
-
-@media screen and (max-width: 600px) {
-  .iot-logo{
-    width: 150px !important;
-  }
-  .header-version{
-    display: none;
   }
 }
