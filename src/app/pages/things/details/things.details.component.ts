@@ -99,7 +99,7 @@ export class ThingsDetailsComponent implements OnInit {
 
     this.thingsService.editThing(this.thing).subscribe(
       resp => {
-        this.notificationsService.success('Thing metadata successfully edited', '');
+        this.notificationsService.success('Device metadata successfully edited', '');
       },
     );
   }
